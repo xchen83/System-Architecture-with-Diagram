@@ -6,13 +6,14 @@ The Smart Food Spoilage Detection Container employs an MQ-4 Methane Gas Sensor t
 
 
 ## Sensor Information
-![](/slides/to/Components for Smart Food Spoilage Container.002.jpeg)
+![](/slides/2.jpeg)
 
 
 ## Display Devices Information
-
+![](/slides/3.jpeg)
 
 ## Other Components
-
+![](/slides/4.jpeg)
 
 ## Communication Diagram
+![](/slides/5.jpeg)
